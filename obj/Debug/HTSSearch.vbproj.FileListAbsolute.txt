@@ -1,0 +1,9 @@
+C:\Projects\HTSSearch\trunk\obj\Debug\HTSSearch.vbprojResolveAssemblyReference.cache
+C:\Projects\HTSSearch\trunk\obj\Debug\HTSSearch.Resources.resources
+C:\Projects\HTSSearch\trunk\obj\Debug\HTSSearch.vbproj.GenerateResource.Cache
+C:\Projects\HTSSearch\trunk\bin\Debug\HTSSearch.dll
+C:\Projects\HTSSearch\trunk\bin\Debug\HTSSearch.pdb
+C:\Projects\HTSSearch\trunk\bin\Debug\HTSSearch.xml
+C:\Projects\HTSSearch\trunk\obj\Debug\HTSSearch.dll
+C:\Projects\HTSSearch\trunk\obj\Debug\HTSSearch.xml
+C:\Projects\HTSSearch\trunk\obj\Debug\HTSSearch.pdb

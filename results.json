@@ -1,0 +1,1752 @@
+﻿{
+  "results": [
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper ores and concentrates",
+      "statisticalSuffix": "",
+      "score": "120.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "2603.00.00",
+      "footnotes": null,
+      "general": "1.7¢/kg on lead content",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "1",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2603.00.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "0",
+      "description": "Lead ores and concentrates",
+      "statisticalSuffix": "",
+      "score": "053.33",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "2607.00.00",
+      "footnotes": null,
+      "general": "1.1¢/kg on lead content",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "1",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2607.00.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "0",
+      "description": "Zinc ores and concentrates",
+      "statisticalSuffix": "",
+      "score": "053.33",
+      "special": "",
+      "htsno": "2608.00.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "1",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2608.00.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "1",
+      "description": "Silver ores and concentrates",
+      "statisticalSuffix": "",
+      "score": "053.33",
+      "special": "Free (A+,AU,BH, CA,CL,CO,D,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "2616.10.00",
+      "footnotes": null,
+      "general": "0.8¢/kg on lead content",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2616.10.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "1",
+      "description": "Other",
+      "statisticalSuffix": "",
+      "score": "053.33",
+      "special": "Free (A+,AU,BH, CA,CL,CO,D,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "2616.90.00",
+      "footnotes": null,
+      "general": "1.7¢/kg on lead content",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2616.90.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "3",
+      "description": "Other",
+      "statisticalSuffix": "",
+      "score": "108.33",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "2620.19.60",
+      "footnotes": null,
+      "general": "0.7¢/kg on copper content + 0.7¢/kg on lead content",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "4",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2620.19.60.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "2",
+      "description": "Leaded gasoline sludges and leaded anti-knock compound sludges",
+      "statisticalSuffix": "",
+      "score": "053.33",
+      "special": "",
+      "htsno": "2620.21.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2620.21.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "2",
+      "description": "Other",
+      "statisticalSuffix": "",
+      "score": "053.33",
+      "special": "",
+      "htsno": "2620.29.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2620.29.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content",
+      "superior": null,
+      "indent": "1",
+      "description": "Containing mainly copper",
+      "statisticalSuffix": "",
+      "score": "120.00",
+      "special": "",
+      "htsno": "2620.30.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Copper content",
+      "statisticalSuffix": "10",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2620.30.00.10",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "units" ],
+          "value": "Report value only of stated metal content."
+        }
+      ],
+      "general": "",
+      "units": [ "Cu kg" ]
+    },
+    {
+      "other": "Free",
+      "superior": null,
+      "indent": "3",
+      "description": "Slag containing by weight over 40 percent titanium, and which if containing over 2 percent by weight of copper, lead, or zinc is not to be treated for the recovery thereof",
+      "statisticalSuffix": "00",
+      "score": "053.12",
+      "special": "",
+      "htsno": "2620.99.50.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "Free",
+      "superior": null,
+      "indent": "3",
+      "description": "Other materials which are residues not advanced in value or condition by any means, and which if containing over 2 percent by weight of copper, lead or zinc are not to be treated for the recovery thereof",
+      "statisticalSuffix": "",
+      "score": "053.12",
+      "special": "",
+      "htsno": "2620.99.75",
+      "footnotes": null,
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "1",
+      "description": "Copper oxides and hydroxides:",
+      "statisticalSuffix": "",
+      "score": "066.67",
+      "special": null,
+      "htsno": "2825.50",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "32.5%",
+      "superior": null,
+      "indent": "2",
+      "description": "Copper hydroxides",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE, SG)",
+      "htsno": "2825.50.30.00",
+      "footnotes": null,
+      "general": "3.9%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "32.5%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE, SG)",
+      "htsno": "2827.41.00.00",
+      "footnotes": null,
+      "general": "3.9%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "25%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of calcium or of copper",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "",
+      "htsno": "2827.60.10.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "5%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "2833.25.00.00",
+      "footnotes": null,
+      "general": "1.4%",
+      "units": [ "kg", "Cu kg" ]
+    },
+    {
+      "other": "32.5%",
+      "superior": null,
+      "indent": "1",
+      "description": "Of copper (phosphor copper), containing more than 15 percent by weight of phosphorus",
+      "statisticalSuffix": "00",
+      "score": "093.75",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE, SG)",
+      "htsno": "2848.00.10.00",
+      "footnotes": null,
+      "general": "2.6%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "53.4%",
+      "superior": null,
+      "indent": "3",
+      "description": "Acid black 61, 63, 76, 83, 117, 127, 131, 132, 139, 164, 170, 177, 183, 188, 194, 199, 211;<newline/> Acid blue 1, 47, 60, 61, 66, 72, 81, 82, 83, 90, 98, 102, 112, 123, 126, 127:1, 130, 133, 140, 142, 147, 151, 172, 175, 182, 185, 193, 204, 205, 208, 209, 221, 225, 229, 239, 242, 247, 250, 252, 254, 260, 261, 264, 266, 268, 280, 284, 288, 290, 296, 312, 317, 318;<newline/> Acid brown 10, 11, 12, 30, 33, 45, 50, 52, 68, 83, 85, 100, 101, 103, 104, 105, 106, 126, 127, 147, 158, 160, 161, 162, 163, 165, 180, 191, 224, 226, 227, 235, 237, 239, 248, 266, 267, 270, 276, 282, 283, 289, 290, 291, 298, 304, 311, 314, 315, 321, 322, 324, 325, 330, 331, 355, 357, 358, 359, 360, 361, 362, 384;<newline/> Acid green 9, 26, 28, 41, 43, 60, 68, 70, 71, 73, 80, 82, 84, 89, 92, 93, 94, 108, 112;<newline/> Acid orange 3, 19, 28, 33, 43, 47, 61, 86, 89, 92, 94, 102, 107, 126, 135, 142, 144;<newline/> Acid red 37, 42, 48, 52, 57, 58, 92, 111, 118, 127, 131, 138, 143, 155, 161, 183, 199, 213, 215, 216, 226, 227, 228, 249, 252, 257, 259, 260, 261, 263, 274, 281, 282, 283, 301, 303, 310, 315, 330, 331, 332, 336, 347, 357, 359, 360, 361, 362, 380, 392, 394, 396;<newline/> Acid violet 9, 34, 36, 47, 66, 75, 80, 90, 103, 109, 111, 121;<newline/> Acid yellow 7, 35, 64, 70, 72, 96, 98, 111, 127, 136, 155, 167, 183, 184, 194, 195, 199, 218, 221, 223, 227;<newline/> Copper phthalocyanine-3,3',4,4'-tetrasulfonic acid;<newline/> Copper phthalocyanine-4,4ʻ,4'',4'''-tetrasulfonic acid;<newline/> Dyes containing, by weight--<newline/>24.2 percent Acid Yellow 135,<newline/>  21.7 percent Acid Orange 51, and<newline/>  54.1 percent Acid Blue 113;<newline/> Dyes containing, by weight--<newline/>  10.1 percent Acid Yellow 64,<newline/>  11.6 percent Acid Orange 51,<newline/>  26.3 percent Acid Blue 113,<newline/>  50.5 percent Acid Black 172, and <newline/> 1.5 percent Acid Green 25",
+      "statisticalSuffix": "00",
+      "score": "075.42",
+      "special": "Free (A*,AU,BH, CA,CL,CO,E,IL, JO,KR,MA, MX,OM, P,PA,PE,SG)",
+      "htsno": "3204.12.20.00",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "general" ],
+          "value": "See headings 9902.03.59, 9902.03.76 and 9902.24.95."
+        }
+      ],
+      "general": "6.5%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "15.4¢/kg + 48%",
+      "superior": null,
+      "indent": "3",
+      "description": "Copper phthalocyanine ([Phthalocyanato(2-)]- copper), not ready for use as a pigment",
+      "statisticalSuffix": "00",
+      "score": "093.75",
+      "special": "Free (A+,AU,BH,CA,CL,CO,D,E,IL,JO,MA,MX,OM,P,PA,PE,SG) 3.2% (KR)",
+      "htsno": "3204.17.20.00",
+      "footnotes": null,
+      "general": "6.5%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Plated or coated with copper",
+      "statisticalSuffix": "10",
+      "score": "066.67",
+      "special": "",
+      "htsno": "7229.20.00.10",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "5",
+      "description": "Plated or coated with copper",
+      "statisticalSuffix": "06",
+      "score": "066.67",
+      "special": "",
+      "htsno": "7229.90.50.06",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper:",
+      "statisticalSuffix": "",
+      "score": "052.50",
+      "special": null,
+      "htsno": "7317.00",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper mattes; cement copper (precipitated copper)",
+      "statisticalSuffix": "00",
+      "score": "131.25",
+      "special": "",
+      "htsno": "7401.00.00.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "0",
+      "description": "Unrefined copper; copper anodes for electrolytic refining",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "",
+      "htsno": "7402.00.00.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "kg", "Cu kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Refined copper and copper alloys, unwrought (other than master alloys of heading 7405):",
+      "statisticalSuffix": "",
+      "score": "091.67",
+      "special": null,
+      "htsno": "7403",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "2",
+      "description": "Cathodes and sections of cathodes",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "Free (A*,AU,BH,CA,CL,CO,E,IL,JO,KR,MA,MX,OM,P,PA,PE,SG)",
+      "htsno": "7403.11.00.00",
+      "footnotes": null,
+      "general": "1%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "2",
+      "description": "Copper-zinc base alloys (brass)",
+      "statisticalSuffix": "00",
+      "score": "135.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7403.21.00.00",
+      "footnotes": null,
+      "general": "1%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "2",
+      "description": "Copper-tin base alloys (bronze)",
+      "statisticalSuffix": "00",
+      "score": "060.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7403.22.00.00",
+      "footnotes": null,
+      "general": "1%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "2",
+      "description": "Other copper alloys",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7403.29.01",
+      "footnotes": null,
+      "general": "1%",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+      "statisticalSuffix": "10",
+      "score": "086.54",
+      "special": "",
+      "htsno": "7403.29.01.10",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper waste and scrap:",
+      "statisticalSuffix": "",
+      "score": "066.67",
+      "special": null,
+      "htsno": "7404.00",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "1",
+      "description": "Spent anodes; waste and scrap with a copper content of less than 94 percent by weight",
+      "statisticalSuffix": "",
+      "score": "055.00",
+      "special": "",
+      "htsno": "7404.00.30",
+      "footnotes": null,
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Of refined copper",
+      "statisticalSuffix": "20",
+      "score": "075.00",
+      "special": "",
+      "htsno": "7404.00.30.20",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "4",
+      "description": "Containing more than 0.3 percent of lead",
+      "statisticalSuffix": "45",
+      "score": "135.00",
+      "special": "",
+      "htsno": "7404.00.30.45",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper-tin base alloys (bronze)",
+      "statisticalSuffix": "65",
+      "score": "060.00",
+      "special": "",
+      "htsno": "7404.00.30.65",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Of refined copper",
+      "statisticalSuffix": "20",
+      "score": "075.00",
+      "special": "",
+      "htsno": "7404.00.60.20",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "4",
+      "description": "Containing more than 0.3 percent of lead",
+      "statisticalSuffix": "45",
+      "score": "135.00",
+      "special": "",
+      "htsno": "7404.00.60.45",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper-tin base alloys (bronze)",
+      "statisticalSuffix": "65",
+      "score": "060.00",
+      "special": "",
+      "htsno": "7404.00.60.65",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Master alloys of copper:",
+      "statisticalSuffix": "",
+      "score": "066.67",
+      "special": null,
+      "htsno": "7405.00",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Beryllium copper master alloy",
+      "statisticalSuffix": "30",
+      "score": "062.50",
+      "special": "",
+      "htsno": "7405.00.60.30",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper powders and flakes:",
+      "statisticalSuffix": "",
+      "score": "066.67",
+      "special": null,
+      "htsno": "7406",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper bars, rods and profiles:",
+      "statisticalSuffix": "",
+      "score": "062.50",
+      "special": null,
+      "htsno": "7407",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "1",
+      "description": "Of refined copper:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7407.10",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper-zinc base alloys (brass):",
+      "statisticalSuffix": "",
+      "score": "135.00",
+      "special": null,
+      "htsno": "7407.21",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "5",
+      "description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+      "statisticalSuffix": "10",
+      "score": "086.54",
+      "special": "",
+      "htsno": "7407.29.16.10",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "48%",
+      "superior": null,
+      "indent": "5",
+      "description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+      "statisticalSuffix": "00",
+      "score": "086.54",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7407.29.34.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "48%",
+      "superior": null,
+      "indent": "3",
+      "description": "Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+      "statisticalSuffix": "00",
+      "score": "085.00",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7407.29.40.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper wire:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7408",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "Of which the maximum cross-sectional dimension exceeds 6 mm:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7408.11",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "28%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper-zinc base alloys (brass)",
+      "statisticalSuffix": "00",
+      "score": "135.00",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7408.21.00.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver):",
+      "statisticalSuffix": "",
+      "score": "086.54",
+      "special": null,
+      "htsno": "7408.22",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper plates, sheets and strip, of a thickness exceeding <il>0.15 mm<\/il>:",
+      "statisticalSuffix": "",
+      "score": "054.55",
+      "special": null,
+      "htsno": "7409",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "In coils:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7409.11",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "9%",
+      "superior": null,
+      "indent": "2",
+      "description": "In coils",
+      "statisticalSuffix": "",
+      "score": "060.00",
+      "special": "Free (A,AU,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7409.21.00",
+      "footnotes": null,
+      "general": "1.9%",
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "In coils:",
+      "statisticalSuffix": "",
+      "score": "060.00",
+      "special": null,
+      "htsno": "7409.31",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "48%",
+      "superior": null,
+      "indent": "1",
+      "description": "Of copper-nickel base alloys (cupro-nickel) or copper- nickel-zinc base alloys(nickle silver)",
+      "statisticalSuffix": "00",
+      "score": "086.54",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7409.40.00.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "1",
+      "description": "Of other copper alloys:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7409.90",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Of beryllium copper",
+      "statisticalSuffix": "30",
+      "score": "075.00",
+      "special": "",
+      "htsno": "7409.90.10.30",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg", "Cu kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "4",
+      "description": "Of beryllium copper",
+      "statisticalSuffix": "30",
+      "score": "075.00",
+      "special": "",
+      "htsno": "7409.90.50.30",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg", "Cu kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "4",
+      "description": "Of beryllium copper",
+      "statisticalSuffix": "30",
+      "score": "075.00",
+      "special": "",
+      "htsno": "7409.90.90.30",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg", "Cu kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm:",
+      "statisticalSuffix": "",
+      "score": "052.78",
+      "special": null,
+      "htsno": "7410",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "6.5%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of refined copper",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7410.11.00.00",
+      "footnotes": null,
+      "general": "1%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "6.5%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper alloys",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7410.12.00",
+      "footnotes": null,
+      "general": "1%",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper-zinc base alloys (brass)",
+      "statisticalSuffix": "30",
+      "score": "060.00",
+      "special": "",
+      "htsno": "7410.12.00.30",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "Of refined copper:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7410.21",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "80%",
+      "superior": null,
+      "indent": "3",
+      "description": "Copper clad laminates",
+      "statisticalSuffix": "",
+      "score": "066.67",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7410.21.30",
+      "footnotes": null,
+      "general": "3%",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "5",
+      "description": "Having copper on one side only",
+      "statisticalSuffix": "20",
+      "score": "066.67",
+      "special": "",
+      "htsno": "7410.21.30.20",
+      "footnotes": null,
+      "general": "",
+      "units": [ "m<sup>2<\/sup>", "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "5",
+      "description": "Having copper on both sides",
+      "statisticalSuffix": "40",
+      "score": "075.00",
+      "special": "",
+      "htsno": "7410.21.30.40",
+      "footnotes": null,
+      "general": "",
+      "units": [ "m<sup>2<\/sup>", "kg" ]
+    },
+    {
+      "other": "6%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper alloys",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7410.22.00.00",
+      "footnotes": null,
+      "general": "1.5%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper tubes and pipes:",
+      "statisticalSuffix": "",
+      "score": "066.67",
+      "special": null,
+      "htsno": "7411",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "1",
+      "description": "Of refined copper:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7411.10",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper-zinc base alloys (brass):",
+      "statisticalSuffix": "",
+      "score": "135.00",
+      "special": null,
+      "htsno": "7411.21",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "47%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel-silver)",
+      "statisticalSuffix": "00",
+      "score": "086.54",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7411.22.00.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Copper tube or pipe fittings (for example couplings, elbows, sleeves):",
+      "statisticalSuffix": "",
+      "score": "056.25",
+      "special": null,
+      "htsno": "7412",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "46%",
+      "superior": null,
+      "indent": "1",
+      "description": "Of refined copper",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7412.10.00.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "49%",
+      "superior": null,
+      "indent": "1",
+      "description": "Of copper alloys",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7412.20.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "5",
+      "description": "Nipples",
+      "statisticalSuffix": "25",
+      "score": "060.00",
+      "special": "",
+      "htsno": "7412.20.00.25",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Stranded wire, cables, plaited bands and the like, including slings and similar articles, of copper, not electrically insulated:",
+      "statisticalSuffix": "",
+      "score": "053.85",
+      "special": null,
+      "htsno": "7413.00",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Nails, tacks, drawing pins, staples (other than those of heading 8305) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of copper:",
+      "statisticalSuffix": "",
+      "score": "096.25",
+      "special": null,
+      "htsno": "7415",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper:",
+      "statisticalSuffix": "",
+      "score": "100.62",
+      "special": null,
+      "htsno": "7418",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper-zinc base alloys (brass)",
+      "statisticalSuffix": "02",
+      "score": "060.00",
+      "special": "",
+      "htsno": "7418.10.00.02",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "5",
+      "description": "Cooking or heating apparatus of a kind used for domestic purposes, non- electric and parts thereof",
+      "statisticalSuffix": "21",
+      "score": "060.00",
+      "special": "",
+      "htsno": "7418.10.00.21",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "40%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper-zinc base alloys (brass)",
+      "statisticalSuffix": "00",
+      "score": "060.00",
+      "special": "Free (A,AU,BH,CA, CL,CO,E,IL,JO, KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7418.20.10.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "0",
+      "description": "Other articles of copper:",
+      "statisticalSuffix": "",
+      "score": "075.00",
+      "special": null,
+      "htsno": "7419",
+      "footnotes": null,
+      "general": null,
+      "units": null
+    },
+    {
+      "other": "75%",
+      "superior": null,
+      "indent": "5",
+      "description": "Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines, with 94 or more wires to the lineal centimeter",
+      "statisticalSuffix": "00",
+      "score": "088.64",
+      "special": "",
+      "htsno": "7419.99.03.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "m<sup>2<\/sup>", "kg" ]
+    },
+    {
+      "other": "45%",
+      "superior": null,
+      "indent": "3",
+      "description": "Copper springs",
+      "statisticalSuffix": "00",
+      "score": "075.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "7419.99.16.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "40%",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "",
+      "htsno": "8205.51.45.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "X" ]
+    },
+    {
+      "other": "40%",
+      "superior": null,
+      "indent": "4",
+      "description": "Of copper",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "",
+      "htsno": "8205.59.60.00",
+      "footnotes": null,
+      "general": "Free",
+      "units": [ "X" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "6",
+      "description": "Of copper",
+      "statisticalSuffix": "40",
+      "score": "100.00",
+      "special": "",
+      "htsno": "8302.49.80.40",
+      "footnotes": null,
+      "general": "",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "45%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper",
+      "statisticalSuffix": "",
+      "score": "100.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "8481.30.10",
+      "footnotes": null,
+      "general": "3%",
+      "units": null
+    },
+    {
+      "other": "47%",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper",
+      "statisticalSuffix": "",
+      "score": "100.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "8481.80.10",
+      "footnotes": null,
+      "general": "4%",
+      "units": null
+    },
+    {
+      "other": "47%",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "8481.90.10.00",
+      "footnotes": null,
+      "general": "3%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper",
+      "statisticalSuffix": "40",
+      "score": "100.00",
+      "special": "",
+      "htsno": "8487.10.00.40",
+      "footnotes": null,
+      "general": "",
+      "units": [ "No." ]
+    },
+    {
+      "other": "40%",
+      "superior": null,
+      "indent": "2",
+      "description": "Of copper",
+      "statisticalSuffix": "",
+      "score": "100.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "8544.11.00",
+      "footnotes": null,
+      "general": "3.5%",
+      "units": null
+    },
+    {
+      "other": "40%",
+      "superior": null,
+      "indent": "4",
+      "description": "Of copper",
+      "statisticalSuffix": "",
+      "score": "100.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "8544.49.30",
+      "footnotes": null,
+      "general": "5.3%",
+      "units": null
+    },
+    {
+      "other": "40%",
+      "superior": null,
+      "indent": "3",
+      "description": "Of copper",
+      "statisticalSuffix": "00",
+      "score": "100.00",
+      "special": "Free (A,AU,B,BH, CA,CL,CO,E,IL, JO,KR,MA,MX, OM,P,PA,PE,SG)",
+      "htsno": "8544.60.40.00",
+      "footnotes": null,
+      "general": "3.5%",
+      "units": [ "kg" ]
+    },
+    {
+      "other": "The rate applicable in the absence of this subheading",
+      "superior": null,
+      "indent": "1",
+      "description": "Articles of copper",
+      "statisticalSuffix": "",
+      "score": "125.63",
+      "special": "",
+      "htsno": "9817.00.80",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See statistical note 1 to this subchapter."
+        }
+      ],
+      "general": "Free",
+      "units": null
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "A copper phthalocyanine substituted with 15 or 16 groups which comprise 8-15 thioaryl and 1-8 arylamino groups (provided for in subheading 3204.19.40)",
+      "statisticalSuffix": "",
+      "score": "052.63",
+      "special": "No change",
+      "htsno": "9902.01.77",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper 8-hydroxyquinoline (oxine copper) (CAS No. 10380-28-6) (provided for in subheading 2933.49.30)",
+      "statisticalSuffix": "",
+      "score": "085.71",
+      "special": "No change",
+      "htsno": "9902.02.31",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "2-[(Hydroxyethylsulfamoyl)sulfophthalocyaninato]- <br/>copper(II), mixed isomers (provided for in subheading 3204.14.30)",
+      "statisticalSuffix": "",
+      "score": "053.85",
+      "special": "No change",
+      "htsno": "9902.03.12",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper [29H,31H-phthalocyaninato(2-)-N29,N30,N31, N32]-, aminosulfonylsulfo derivatives, tetramethylammo- nium salts (provided for in subheading 3204.14.30)",
+      "statisticalSuffix": "",
+      "score": "052.63",
+      "special": "No change",
+      "htsno": "9902.04.21",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper, [29H,31H-phthalocyaninato(2-)-xN29,xN30,xN31, xN32]-aminosulfonyl-[(2-hydroxyethyl)amino]sulfonylsulfo derivatives, sodium salt (provided for in subheading 3204.14.30)",
+      "statisticalSuffix": "",
+      "score": "052.27",
+      "special": "No change",
+      "htsno": "9902.04.30",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper Phthalocyanine Green 7, Crude (CAS No. 1328-53-6) (provided for in subheading 3204.17.90)",
+      "statisticalSuffix": "",
+      "score": "053.57",
+      "special": "No change",
+      "htsno": "9902.25.20",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper phthalocyanine substituted with sulphonic acids and alkyl sulphonoamides, sodium salt (PMN No. P-99-105) (provided for in subheading 3204.14.30)",
+      "statisticalSuffix": "",
+      "score": "052.78",
+      "special": "No change",
+      "htsno": "9902.25.48",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper phthalocyanine substituted with sulphonic acids and alkyl sulphonoamides, sodium/ammonium salts (PMN No. P02-893) (provided for in subheading 3204.14.30)",
+      "statisticalSuffix": "",
+      "score": "052.78",
+      "special": "No change",
+      "htsno": "9902.25.50",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Cyan 854 inkjet printing ink: Copper phthalocyanine substituted with sulphonic acids and alkyl Sulphonoamides, sodium/ammonium salts (PMN No. P02-893) (provided for in subheading 3215.19.00)",
+      "statisticalSuffix": "",
+      "score": "052.17",
+      "special": "No change",
+      "htsno": "9902.40.41",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "0.3%",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Cyan 1 RO inkjet printing ink: Copper phthalocyanine substituted with sulphonic acids and sulphonoamides, sodium salts (CAS No. 90295-11-7) (provided for in subheading 3215.19.00)",
+      "statisticalSuffix": "",
+      "score": "052.17",
+      "special": "No change",
+      "htsno": "9902.40.42",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "0.3%",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Cyan 226 inkjet printing ink: Copper phthalocyanine substituted with sulphonic acids and alkyl sulphonoamides, sodium salt (PMN No. P99-105) (provided for in subheading 3215.19.00)",
+      "statisticalSuffix": "",
+      "score": "052.27",
+      "special": "No change",
+      "htsno": "9902.40.43",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "0.3%",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Cyan 9075 inkjet printing ink: Copper phthalocyanine substituted with sulphonic acids and sulphonoamides, sodium salts (CAS No. 90295-11-7) (provided for in subheading 3215.19.00)",
+      "statisticalSuffix": "",
+      "score": "052.27",
+      "special": "No change",
+      "htsno": "9902.40.45",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "0.3%",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Cyan 1 inkjet printing ink: Copper phthalocyanine substituted with sulphonic acids and sulphonoamides (PMN No. P94-580) (provided for in subheading 3215.19.00)",
+      "statisticalSuffix": "",
+      "score": "052.63",
+      "special": "No change",
+      "htsno": "9902.40.51",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Cyan 485 inkjet printing ink: Copper phthalocyanine substituted with sulphonic acids and alkyl sulphonoamides, sodium salt (PMN No. P-99-105) (provided for in subheading 3215.19.00)",
+      "statisticalSuffix": "",
+      "score": "052.17",
+      "special": "No change",
+      "htsno": "9902.40.52",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": "No change",
+      "superior": null,
+      "indent": "0",
+      "description": "Copper oxychloride (CAS No. 1332-40- 7) and copper hydroxide (CAS No. 20427-59-2) (provided for in subheading 3808.92.30)",
+      "statisticalSuffix": "",
+      "score": "083.82",
+      "special": "No change",
+      "htsno": "9902.40.55",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "Free",
+      "units": [ ]
+    },
+    {
+      "other": null,
+      "superior": null,
+      "indent": "1",
+      "description": "Unrefined copper; copper anodes for electrolytic refining (provided for in heading 7402.00.00)",
+      "statisticalSuffix": "",
+      "score": "088.64",
+      "special": "",
+      "htsno": "9903.27.13",
+      "footnotes": [
+        {
+          "marker": "1",
+          "columns": [ "stat", "units" ],
+          "value": "See chapter 99 statistical note 1."
+        }
+      ],
+      "general": "100%",
+      "units": [ ]
+    }
+  ]
+}
